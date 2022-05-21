@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/samuelr26/js-fullpack/issues"
   },
-  "homepage": "https://github.com/samuelr26/js-fullpack#readme"
+  "homepage": "https://github.com/samuelr26/js-fullpack#readme",
+  "engines": {"node":">15"}
 }
