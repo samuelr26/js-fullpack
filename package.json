@@ -17,5 +17,10 @@
     "url": "https://github.com/samuelr26/js-fullpack/issues"
   },
   "homepage": "https://github.com/samuelr26/js-fullpack#readme",
-  "engines": {"node":">15"}
+  "engines": {
+    "node": ">=15"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.0"
+  }
 }
