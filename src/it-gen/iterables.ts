@@ -55,7 +55,8 @@ let iterator = countdownIterable[Symbol.iterator]();
 //console.log(iterator.next());
 //> Object {done: false, value: 8}
 //#endregion
-console.log(typeof countdownIterable,typeof countdownIterator.countdown);
+
+//console.log(typeof countdownIterable,typeof countdownIterator.countdown);
 for ( let element of countdownIterable ) {
     //console.log( element );
 }
@@ -71,6 +72,8 @@ for ( let element of countdownIterable ) {
  let pairs = message.entries();
  
  for( let pair of pairs ) {
-     console.log( pair );
+    //  console.log( pair );
  }
+
+
 
