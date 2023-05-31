@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" modified="2023-05-31T11:04:12.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="IvSGw3cOsiP8bjTSUmXK" version="21.3.6" type="github">
+  <diagram name="Page-1" id="etpdiY5WksrD8vICp0zm">
+    <mxGraphModel dx="954" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="svhEMXn01aHAIlezxbmA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-2" target="svhEMXn01aHAIlezxbmA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-2" value="new build" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-4" target="svhEMXn01aHAIlezxbmA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-4" target="svhEMXn01aHAIlezxbmA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-4" value="local /&amp;nbsp; cloud&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-5" target="svhEMXn01aHAIlezxbmA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="310" />
+              <mxPoint x="411" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-5" value="local" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-7" value="download sim build&lt;br&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-9" target="svhEMXn01aHAIlezxbmA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-9" value="cloud exec" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-11" target="svhEMXn01aHAIlezxbmA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-11" value="download build &amp;amp; upload" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-15" value="prep testrail&lt;br&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="svhEMXn01aHAIlezxbmA-20" target="svhEMXn01aHAIlezxbmA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-20" value="WDIO config&lt;br&gt;adapt config acc to&lt;br&gt;- real / virtual&lt;br&gt;- ios / android&lt;br&gt;- appPath/ appID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="440" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="svhEMXn01aHAIlezxbmA-23" value="interactive CLI to choose optns&lt;br&gt;- platform : iOS / android&lt;br&gt;- device type : real / virtual&lt;br&gt;- exec : local / cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="440" width="230" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
